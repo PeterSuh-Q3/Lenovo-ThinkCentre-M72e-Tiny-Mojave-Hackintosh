@@ -20,8 +20,8 @@ Since it succeeded in similar tiny specifications, it will be available in Small
 
 2. Switch to UEFI Only mode.
 
+![211210_lec_2e2da54d2450d760799a9d7cd07c4f608e0f658d](https://user-images.githubusercontent.com/85427533/145748980-d2c6c48c-ad49-4c16-93b6-14e5a3b71b50.jpeg)
 ![211210_lec_f7a4b0fa9e9c2eeba3ca1ae4311bfc9bf8f14acd](https://user-images.githubusercontent.com/85427533/145748446-96acc331-7dcb-474e-965b-7fd817e8661d.jpeg)
-![211210_lec_db26f0770524cff0aa252981bff40c92eee617dc](https://user-images.githubusercontent.com/85427533/145748453-966a3707-be35-4b75-a161-b5e8458dc155.jpeg)
 
 3. Secure Boot Mode, disable change (disable to secure boot mode )
 
