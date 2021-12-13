@@ -19,10 +19,12 @@ Since it succeeded in similar tiny specifications, it will be available in Small
 1.SATA AHCI activation. (Don't touch the AHCI part as the default, just check it.)
 
 2. Switch to UEFI Only mode.
+
 ![211210_lec_f7a4b0fa9e9c2eeba3ca1ae4311bfc9bf8f14acd](https://user-images.githubusercontent.com/85427533/145748446-96acc331-7dcb-474e-965b-7fd817e8661d.jpeg)
 ![211210_lec_db26f0770524cff0aa252981bff40c92eee617dc](https://user-images.githubusercontent.com/85427533/145748453-966a3707-be35-4b75-a161-b5e8458dc155.jpeg)
 
-3. Secure Boot Mode, disable change (disable to secure boot mode
+3. Secure Boot Mode, disable change (disable to secure boot mode )
+
 ![211210_lec_db26f0770524cff0aa252981bff40c92eee617dc](https://user-images.githubusercontent.com/85427533/145748501-e58e8042-a0ee-4b48-afb5-3b9323e9986f.jpeg)
 ![211210_lec_b61bb1d9f5672003586b5b882751c60bdd3dc881](https://user-images.githubusercontent.com/85427533/145748517-5abef6ca-34bb-4a7d-b767-071f5501a00b.jpeg)
 
