@@ -43,3 +43,6 @@ Since it succeeded in similar tiny specifications, it will be available in Small
 | Wi-Fi | Intel(R) Centrino(R) Advanced-N 6235 AGN
 | OpenCore | 0.6.5
 | SMBIOS | iMac13,2
+| MAC OS | 10.14.06 Mojave
+
+
